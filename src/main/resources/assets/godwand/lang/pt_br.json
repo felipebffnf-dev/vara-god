@@ -1,0 +1,19 @@
+{
+  "item.godwand.god_wand": "God Wand",
+  "itemGroup.godwand": "God Wand",
+  "key.godwand.wheel": "Roda de habilidades",
+  "category.godwand": "God Wand",
+  "screen.godwand.wheel": "Habilidades",
+  "skill.godwand.0": "Caminho Espacial",
+  "skill.godwand.1": "Singularidade",
+  "skill.godwand.2": "Broca da Terra",
+  "skill.godwand.3": "Supernova",
+  "skill.godwand.4": "Canhão de Pedra",
+  "msg.godwand.on": "Ativado",
+  "msg.godwand.off": "Desativado",
+  "msg.godwand.bridge": "Modo Ponte",
+  "msg.godwand.tunnel": "Modo Túnel",
+  "msg.godwand.no_target": "Nenhum alvo no alcance",
+  "msg.godwand.level": "Nível %s",
+  "msg.godwand.charging": "Carregando... %s%%"
+}
