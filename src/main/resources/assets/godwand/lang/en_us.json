@@ -1,0 +1,19 @@
+{
+  "item.godwand.god_wand": "God Wand",
+  "itemGroup.godwand": "God Wand",
+  "key.godwand.wheel": "Skill wheel",
+  "category.godwand": "God Wand",
+  "screen.godwand.wheel": "Skills",
+  "skill.godwand.0": "Space Path",
+  "skill.godwand.1": "Singularity",
+  "skill.godwand.2": "Earth Drill",
+  "skill.godwand.3": "Supernova",
+  "skill.godwand.4": "Stone Cannon",
+  "msg.godwand.on": "Enabled",
+  "msg.godwand.off": "Disabled",
+  "msg.godwand.bridge": "Bridge mode",
+  "msg.godwand.tunnel": "Tunnel mode",
+  "msg.godwand.no_target": "No target in range",
+  "msg.godwand.level": "Level %s",
+  "msg.godwand.charging": "Charging... %s%%"
+}
